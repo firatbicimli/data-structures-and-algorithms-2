@@ -1,4 +1,4 @@
-# veriyapilarivealgoritmalari-2
+# data structures and algorithms-2
 Merge Sort Task
 [16,21,11,8,12,22] dizisinin Merge sort türüne göre aşamalarını yazınız.
 
